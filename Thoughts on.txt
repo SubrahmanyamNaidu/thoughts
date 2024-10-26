@@ -1,0 +1,43 @@
+1. Building 3D models using 2D images or with the text( inspiration : Rodin AI)
+
+2. Voice Clone ( inspiration: OpenVoice V1-V2)
+
+3. AI Music 
+
+4. AI Animation Characters: for a story book the characters should have continuity in them every time we need the same images with different posters.
+
+5. AI Style generator: Creating different Style for shirts, Poster and Business cards
+
+6. AI wedding planer: It should create whole plan from starting of the wedding to end (Try it with AI) 
+
+7. Though Suggester: When there is any occasion to making that occasion memorable the agent should suggest an plan of action in the same way as 6.
+
+8. Digital farm which creating a community of people to make the initial impact on the social media by which the people with content can reach the desired exposer to the world and can gain the confidence of moving forward by the feedbacks.
+
+9. Creating a Community for cloths called "Dead Body - The Ultimate state". 
+
+10. Creating a light game using a person face (creating the doted model of a person and showing it with the help of lights or drowns.
+
+11. Meeting Summarizer while a meeting is going on few people may miss the meeting and want to know what happened in the meeting and they have to depend on the other people there is a chance of misunderstanding or few important points may missed out. So this summarizer will help them to be on track and the people in the meeting can also read the summary and can analyze there mistakes or strategies which help to reduce the time consumptions.
+
+12. Story writer use a pdf of story book and try to create a story similar to that particular story.
+
+13. Movie plot point analyser which helps actors to be in the movie or not if the plot line in not good they can reject if good can get some suggestions or changes for making it more attractive.
+
+
+14.Audio splitter, Splitting audio on multiple people into different tracks
+
+15.Audio to Video creating video with the audio with ai
+
+
+16. Audio translation with the same voice pitch tone etc.,
+
+
+17. Creating an test for a person for selecting to Physical round using AI. Consider skills he mentioned and according to that the test will be conducted an Immediate response will be given to him and get some proper feedback an suggests in which area he is not going good. 
+
+18. converting pose of a person to an vector image
+
+
+     
+
+ 
